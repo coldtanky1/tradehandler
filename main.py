@@ -125,4 +125,4 @@ async def request(ctx, res: str, amount: int, payment: str, payment_amount: int)
             await flame_contact.send("You took too long to respond. The trade request has been canceled.")
 
 
-bot.run('MTE2ODk2MTc1MDYxMjMyODU0OQ.GptLRW.pkyI_4wt_XK2q0TAO4G-88JMKo-_pDmz_Nuo8g')
+bot.run('YOUR_TOKEN_HERE')
